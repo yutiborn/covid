@@ -1,0 +1,34 @@
+h3{
+    text-align: center;
+    font-size: 40px;
+    color:rgb(153, 49, 84);;
+    text-decoration: none;
+    
+}
+.box{
+    border:rgb(153, 49, 84) 2px solid;
+    width: auto;
+    background-color: black;
+    
+}
+a {
+    text-decoration: none;
+}
+input {
+font-size: 30px;
+color:rgb( 78, 22, 41);
+text-decoration: none;
+margin-top: 45px;
+padding:none;
+width: 205px;
+border: rgb( 78, 22, 41);
+}
+.logo{
+    font-size: 80px;
+    font-weight: bold;
+    font-style:italic;
+    text-align: center;
+    color:rgb(153, 49, 84);
+    margin-bottom: 30px;
+
+}

@@ -1,0 +1,16 @@
+.globalTable{
+   border:4px palevioletred solid;
+   margin: auto;
+   width: 90%;
+   height:300px;
+   font-size: 30px;
+   font-weight: bold;
+
+}
+
+.globalTable td{
+    border:4px palevioletred solid;
+    background-color: black;
+    text-align:center;
+    color: palevioletred;
+ }

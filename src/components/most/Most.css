@@ -1,0 +1,17 @@
+.most{
+    display: flex;
+    flex-wrap: wrap;
+    color: palevioletred;
+    font-size:40px ;
+}
+.mostCard {
+    
+    border: 3px palevioletred solid;
+    background-color: black;
+    color: palevioletred;
+    font-size: 20px;
+    font-weight: bold;
+    width: 30%;
+    margin:30px auto;
+
+}
