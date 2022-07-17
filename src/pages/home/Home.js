@@ -55,8 +55,8 @@ const Home = ({ numberWithCommas, countries }) => {
       </table>
       <Most time="today" data="deaths" countries={countries} />
       <Most time="today" data="confirmed" countries={countries} />
-      <Most time="al time" data="deaths" countries={countries} />
-      <Most time="al time" data="confirmed" countries={countries} />
+      <Most time="all time" data="deaths" countries={countries} />
+      <Most time="all time" data="confirmed" countries={countries} />
     </div>
   );
 };

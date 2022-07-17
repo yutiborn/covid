@@ -54,7 +54,7 @@ const NavBar = ({ countries }) => {
         >
           <input 
             type="text"
-            placeholder="COUNTRY"
+            placeholder="Country"
             value={value}
             onChange={(e) => {
               setValue(e.target.value);
