@@ -18,11 +18,12 @@ input {
 font-size: 30px;
 color:rgb( 78, 22, 41);
 text-decoration: none;
-margin-top: 45px;
+gmargin-top: 45px;
 padding:none;
 width: 205px;
 border: rgb( 78, 22, 41);
 }
+
 .logo{
     font-size: 80px;
     font-weight: bold;
